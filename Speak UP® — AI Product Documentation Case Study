@@ -1,0 +1,129 @@
+# Speak UP® — AI Product Documentation Case Study
+
+## Author
+
+**Shipra Jain** — Technical Writer (Web & AI Platforms)
+
+---
+
+## Overview
+
+This case study demonstrates my experience creating comprehensive end‑user documentation for **Speak UP®**, a web and mobile application designed to help students anonymously report bullying and unsafe behavior. The documentation supports multiple user roles, complex workflows, and sensitive use cases, requiring clarity, empathy, and precision.
+
+This sample highlights my ability to structure large documentation sets, simplify role-based workflows, and design user guides that are accessible, scalable, and compliant.
+
+---
+
+## Product Background
+
+**Speak UP®** is a web and mobile application that enables students to report incidents anonymously, including bullying or unsafe behavior, both on campus and online. Reports are routed directly to school authorities such as teachers and headmasters.
+
+The product serves a diverse audience and operates in a high‑trust, safety‑critical environment where usability and accuracy are essential.
+
+---
+
+## Audience & Roles
+
+The documentation supports three primary user roles:
+
+* **Students** — Report incidents, communicate with authorities, manage their accounts
+* **Teachers** — Review incident reports, respond to messages, analyze dashboard insights
+* **Headmasters / Administrators** — Monitor alerts, manage users, send notifications, and track trends
+
+Each role has distinct permissions, dashboards, and workflows, requiring clear separation and role-based navigation.
+
+---
+
+## Documentation Scope
+
+I authored a full **web user guide** covering:
+
+* Product introduction and onboarding
+* Secure login and credential recovery
+* Role-based dashboards and navigation
+* Incident reporting workflows
+* Messaging and follow‑up mechanisms
+* Account and password management
+* Alerts and push notifications
+* Administrative controls and reporting
+
+The documentation was structured to allow users to quickly locate relevant information based on their role.
+
+---
+
+## Key Documentation Challenges
+
+* Supporting **multiple user personas** within a single guide
+* Explaining sensitive workflows (anonymous reporting, alerts)
+* Maintaining clarity across a large number of UI screens
+* Balancing step‑by‑step instructions with conceptual understanding
+* Ensuring accessibility for non‑technical users
+
+---
+
+## My Approach
+
+### 1. Role‑Based Information Architecture
+
+I organized the documentation by user role (Student, Teacher, Headmaster), ensuring users could easily find workflows relevant to them without confusion.
+
+### 2. Task‑Driven Writing
+
+Each section focuses on what users want to accomplish:
+
+* Log in and recover credentials
+* Report an incident
+* Respond to messages
+* Review alerts and dashboards
+
+This reduced cognitive load and improved task completion.
+
+### 3. Clear, Empathetic Language
+
+Given the nature of the product, I used neutral, supportive language while documenting sensitive actions such as reporting incidents and anonymous submissions.
+
+### 4. Visual Anchoring
+
+Screenshots and figures were referenced consistently to help users orient themselves within the UI and confirm successful actions.
+
+---
+
+## Deliverables
+
+* End‑user web guide (Version 1.0)
+* Role‑specific workflows and dashboards
+* Incident reporting and messaging documentation
+* Alert and push notification documentation
+* Account and security management sections
+
+---
+
+## Tools Used
+
+* Microsoft Word
+* Screenshot annotation tools
+* Internal review workflows
+
+---
+
+## Outcome & Impact
+
+* Enabled students to safely and anonymously report incidents
+* Reduced onboarding friction for teachers and administrators
+* Provided schools with a structured reference for daily operations
+* Established a scalable foundation for future product updates
+
+---
+
+## Why This Case Study Matters
+
+This project demonstrates my ability to:
+
+* Own large documentation sets end‑to‑end
+* Translate complex, role‑based systems into clear guidance
+* Write with empathy for sensitive, real‑world use cases
+* Design documentation that supports trust, safety, and usability
+
+---
+
+*This document is adapted from original product documentation and anonymized for portfolio use.*
