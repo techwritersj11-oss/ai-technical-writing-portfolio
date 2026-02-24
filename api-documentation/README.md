@@ -50,6 +50,7 @@ POST /bots
   "language": "en",
   "channel": "web"
 }
+```
 ### Response
 {
   "botId": "bot_12345",
