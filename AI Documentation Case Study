@@ -1,0 +1,175 @@
+# AI Documentation Case Study
+
+## Author
+
+**Shipra Jain** — Senior Technical Writer (AI Platforms)
+
+---
+
+## Overview
+
+This case study showcases my end-to-end documentation ownership across multiple AI-driven products at Cisco, following the acquisition of Armorblox. It highlights how I design, scale, and deliver documentation for complex AI systems—balancing user experience, technical accuracy, and enterprise requirements.
+
+---
+
+## Background
+
+I joined Cisco on **August 1, 2023**, as part of the Armorblox acquisition (July 2023). Armorblox was an AI-powered cybersecurity company focused on protecting email and cloud office applications from phishing and business email compromise using natural language understanding (NLU).
+
+At Cisco, I worked as a Technical Writer on AI platforms, collaborating closely with product managers, engineers, UX teams, and developer advocacy.
+
+---
+
+## Core Strengths
+
+* AI and NLU documentation (chatbots, assistants, APIs)
+* UX-minded technical writing
+* End-to-end ownership from Alpha to GA
+* Cross-product standardization and content reuse
+* Single-sourcing and scalability
+
+---
+
+## Major Deliveries
+
+### 1. AI Assistant for CDO and cDFMC
+
+**Problem**: Cisco’s documentation ecosystem is vast and fragmented, making it difficult for users to find accurate answers quickly.
+
+**Solution**: Contributed to the AI Assistant for Security documentation, designed to surface relevant answers efficiently across products.
+
+**Scope**:
+
+* Alpha to GA documentation
+* User guides and API documentation
+* Information architecture alignment
+
+**Outcome**:
+
+* First major delivery at Cisco
+* Improved findability and navigation across security documentation
+
+**Links**:
+
+* User Guide: [https://www.cisco.com/c/en/us/td/docs/security/cdo/ai-assistant/cisco-ai-assistant-user-guide.html](https://www.cisco.com/c/en/us/td/docs/security/cdo/ai-assistant/cisco-ai-assistant-user-guide.html)
+* Developer Docs: [https://developer.cisco.com/docs/cisco-ai-assistant-for-security/](https://developer.cisco.com/docs/cisco-ai-assistant-for-security/)
+
+**Tools**: Confluence, AEM, Oxygen XML, Cisco DevNet
+
+---
+
+### 2. SSE and XDR Assistants
+
+**Focus**:
+
+* Extended AI Assistant coverage to Secure Access (SSE) and XDR
+* Reused documentation patterns to accelerate delivery
+
+**Impact**:
+
+* Faster turnaround times
+* Reduced dependency on individual contributors
+* Improved consistency via single-sourced content
+
+---
+
+### 3. AI Defense
+
+**Customer Concern**: Security and trust in AI-driven systems
+
+**Key Challenges**:
+
+* User data protection
+* Legal and compliance clarity
+* Lack of content standardization
+
+**My Role**:
+
+* Delivered documentation from Alpha to GA
+* Authored AI Defense API documentation
+* Established documentation standards
+* Transitioned ownership post-GA
+
+**Links**:
+
+* User Docs: [https://securitydocs.cisco.com/docs/ai-def/user/97384.dita](https://securitydocs.cisco.com/docs/ai-def/user/97384.dita)
+* Developer Docs: [https://devnetapps.cisco.com/docs/ai-defense/](https://devnetapps.cisco.com/docs/ai-defense/)
+
+**Tools**: Confluence, AEM, Oxygen XML, DevNet, Ingeniux
+
+---
+
+### 4. Unified AI Assistant
+
+**Goal**: Create a single assistant experience across multiple Cisco products
+
+**Contribution**:
+
+* Documentation standardization across product lines
+* Content consolidation and consistency
+
+**Link**:
+[https://securitydocs.cisco.com/docs/ai-assist/user/106356.dita](https://securitydocs.cisco.com/docs/ai-assist/user/106356.dita)
+
+---
+
+### 5. AI Canvas
+
+**Problem**: Operational data and workflows were siloed across networking, security, and collaboration tools
+
+**Solution**: AI Canvas — a unified workspace to troubleshoot, automate, and act
+
+**Documentation Delivered**:
+
+* Alpha documentation
+* SDK documentation
+* Reference guides
+
+**Links**:
+
+* User Docs: [https://www-author3.cisco.com/content/dam/en/us/td/docs/ai-canvas](https://www-author3.cisco.com/content/dam/en/us/td/docs/ai-canvas)
+* SDK Docs (internal)
+
+**Tools**: AEM, Microsoft Word, SharePoint
+
+---
+
+## Working Style
+
+* Embedded with PM teams
+* Early access to PRDs and roadmaps
+* Active participation in decision-making discussions
+* Self-driven and adaptable in fast-moving environments
+
+---
+
+## Challenges Observed
+
+* Inconsistent review processes across teams
+* Limited early-stage UI/UX collaboration
+* Fragmented communication in parallel workstreams
+* Lack of visibility into structured career growth
+
+---
+
+## What Enabled Success
+
+* Inclusion in planning and roadmap discussions
+* Early design and UX alignment
+* Consistent documentation review workflows
+* Cross-team collaboration and knowledge sharing
+
+---
+
+## Why This Matters
+
+This body of work demonstrates my ability to:
+
+* Document AI systems responsibly and clearly
+* Scale documentation across products and teams
+* Support both end users and developers
+* Design content that is usable by humans and AI systems
+
+---
+
+*This document is adapted from internal presentations and anonymized for portfolio use.*
