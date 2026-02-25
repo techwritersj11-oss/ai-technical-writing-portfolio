@@ -1,0 +1,209 @@
+# Prompt Templates (Copy–Paste Ready)
+
+This section provides reusable prompt templates designed for common real-world use cases.  
+Each template is structured to reduce ambiguity, improve output quality, and encourage safe, effective AI interaction.
+
+These prompts are intentionally written for **non-AI experts** and **first-time AI users**.
+
+---
+
+## 1. General Task Prompt (Baseline)
+
+Use this when you want the AI to perform a clear task with minimal risk.
+
+### Template
+You are an assistant helping with [TASK].
+
+Context:
+[Brief background information]
+
+Goal:
+[What you want to achieve]
+
+Constraints:
+
+Tone: [formal / neutral / friendly]
+
+Length: [short / medium / detailed]
+
+Audience: [who this is for]
+
+Output format:
+[bullet points / paragraph / table]
+
+### Example Use Case
+Writing internal documentation, summaries, or explanations.
+
+---
+
+## 2. Customer Support Response Prompt
+
+Designed for chatbots or AI assistants responding to end users.
+
+### Template
+You are a customer support assistant.
+
+User issue:
+[Describe the problem]
+
+Rules:
+
+Be polite and empathetic
+
+Do not assume the user is technical
+
+Do not guess if information is missing
+
+If unsure, ask a clarifying question
+
+Provide:
+
+A clear explanation
+
+Step-by-step guidance if applicable
+
+A safe fallback if the issue cannot be resolved
+
+---
+
+## 3. Draft → Review → Improve Prompt
+
+Useful for content refinement instead of first-draft generation.
+
+### Template
+Review the following content:
+
+[PASTE CONTENT]
+
+Tasks:
+
+Improve clarity and structure
+
+Remove ambiguity
+
+Ensure factual consistency
+
+Maintain the original intent and tone
+
+Do not add new information unless explicitly stated.
+
+---
+
+## 4. AI Output Validation Prompt
+
+Helps users critically evaluate AI-generated content.
+
+### Template
+Evaluate the following AI-generated output:
+
+[PASTE OUTPUT]
+
+Check for:
+
+Factual accuracy
+
+Logical consistency
+
+Missing assumptions
+
+Overconfidence or hallucination
+
+If issues are found:
+
+Clearly list them
+
+Suggest safer or corrected alternatives
+
+---
+
+## 5. Safe Fallback Prompt
+
+Used when AI must avoid guessing or hallucinating.
+
+### Template
+If the requested information is uncertain or unavailable:
+
+Clearly state the limitation
+
+Do not fabricate details
+
+Offer next steps or escalation options
+
+Suggest how the user can provide more information
+
+---
+
+## 6. Prompt for Structured Output (JSON/Table)
+
+Ideal for APIs, integrations, or automation workflows.
+
+### Template
+Respond only in the following format:
+
+[DEFINE FORMAT — JSON / TABLE]
+
+Rules:
+
+Do not include explanations
+
+Do not include additional fields
+
+Use empty values if information is missing
+
+---
+
+## 7. Clarifying Prompt (When Input Is Vague)
+
+Teaches the AI to pause instead of guessing.
+
+### Template
+If the request is ambiguous:
+
+Ask up to 2 clarifying questions
+
+Do not proceed until clarification is provided
+
+Explain why clarification is needed
+
+---
+
+## 8. Compliance-Aware Prompt
+
+Useful for regulated domains (finance, healthcare, enterprise AI).
+
+### Template
+Before responding:
+
+Avoid legal, medical, or financial advice
+
+Do not provide definitive judgments
+
+Include a disclaimer if required
+
+Encourage human verification where appropriate
+
+---
+
+## Key Prompting Principles Applied
+
+All templates follow these principles:
+- Explicit context
+- Clear constraints
+- Defined output expectations
+- Built-in safety checks
+
+These templates are meant to be **starting points**, not rigid rules.
+
+---
+
+## When to Use Prompt Templates
+
+Prompt templates are most effective when:
+- Consistency matters
+- Multiple users interact with the same AI system
+- Output quality must be predictable
+- Risk of hallucination must be reduced
+
+---
+
+*These templates reflect practical prompting patterns used in conversational AI, developer tools, and enterprise AI systems.*
